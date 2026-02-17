@@ -1,8 +1,8 @@
 # Unencrypted-python-reverse-shell-keylogger-and-stream
 
-GUYS GUYS GUYS GUYS GUYS GUYS
-dont do illegal stuff with this lol, ask for consent btw
-this is here as a proof of concept, it is discouraged to try using this to pen test or exploit vulnerabilities without consent or illegally.
+GUYS
+dont do illegal stuff with this, ask for consent btw
+this is here as a proof of concept, it is discouraged to try using this to pen test or exploit vulnerabilities without consent. Btw this is likely already automatically detected by windows defender.
 
 anyways, put your stuff in IPPORT in this format for the server machine details:
 IPv6
